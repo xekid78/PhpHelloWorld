@@ -7,12 +7,12 @@ HelloWorldと表示
 ## コード
 ```
 <?php
-echo "hello world\n";
+echo "Hello World\n";
 ```
 
 ## 出力結果  
 ```
-hello world
+Hello World
 ```
   
 ## 開発環境
